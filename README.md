@@ -1,2 +1,2 @@
 # SQL-notes
-听从claude大人旨意，决定建此仓库。春招过半才知道学sql，适合和我一样没时间看视频这接刷题的uu们。
+leetcode和牛客一些sql笔记存储
